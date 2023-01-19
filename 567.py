@@ -1,3 +1,3 @@
 number = int(input())
 
-print(number)
+print(F'number is True')
